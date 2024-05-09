@@ -1,1 +1,1 @@
-# Salary-Prediction-Based-on-Experience-
+This project utilizes machine learning techniques to predict employee salaries based on their years of experience. Leveraging the power of Python, along with libraries such as NumPy, Pandas, and Scikit-learn, we implement a linear regression algorithm to analyze the relationship between years of experience and salary.
